@@ -1,0 +1,32 @@
+
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+.container{
+    width: 400px;
+    height: 300px;
+    position: fixed;
+    left: 400px;
+    margin: 70px;
+   
+}
+
+.but1{
+    height: 30px;
+    border-radius: 7px;
+}
+
+.but1:hover{
+    box-shadow: 2px 3px 8px black;
+}
+.but2{
+    height: 30px;
+    border-radius: 7px;
+}
+
+.but2:hover{
+    box-shadow: 2px 3px 8px black;
+}
